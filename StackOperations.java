@@ -1,3 +1,4 @@
+// Member 2
 public class StackOperations {
 
     private static final int MAX_SIZE = 10;
